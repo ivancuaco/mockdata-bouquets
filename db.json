@@ -1,0 +1,21 @@
+{
+  "json": "bouquets",
+  "results": [
+    {
+      "id": 1,
+      "name": "sunflower"
+    },
+    {
+      "id": 2,
+      "name": "fresh rose"
+    },
+    {
+      "id": 3,
+      "name": "dried rose"
+    },
+    {
+      "id": 4,
+      "name": "customize"
+    },
+  ]
+}
